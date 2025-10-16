@@ -1,0 +1,12 @@
+# python context7 reference
+Using Python with /python/cpython library in Context7 as our main reference for the language
+
+# platform cross-platform mac apple-silicon
+Development environment is Mac with Apple Silicon, but target is cross-platform compatibility across Windows, Linux, and macOS (Intel and ARM)
+
+# beginner learning explanation collaboration
+User is a new programmer who wants detailed explanations of tools and processes. Will avoid making assumptions or going too far ahead without guidance. User wants to be involved in decision-making.
+
+# git version-control commits workflow
+User wants to use frequent commits to track work progress. User is new to Git workflows including commits, pulls, and pull requests.
+

@@ -1,0 +1,35 @@
+# macOS specific files
+.DS_Store
+.Spotlight-V100
+.Trashes
+.AppleDouble
+.Lehigh
+.icon?
+._*
+*.
+*.swp
+*.swo
+*.swp
+
+# Python specific files
+__pycache__/ 
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+env/
+venv/
+*.env
+*.sqlite3
+
+# OS specific files
+*.DS_Store
+*.Spotlight-V100
+*.Trashes
+*.AppleDouble
+*.Lehigh
+*.Spotlight
+*.Spotlight-VD
+*.AppleSingle
