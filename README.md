@@ -7,6 +7,7 @@ A simple Python application that reads data from a serial port and displays it i
 ## 📦 Requirements
 - Python 3.x
 - `pyserial` library (install with `pip install pyserial`)
+- **macOS only**: Prolific driver required for USB-serial adapters - install from App Store ([guide](https://kb.plugable.com/serial-adapter/how-to-install-prolific-serial-port-drivers-on-macos))
 
 ## 🚀 Usage
 1. Modify the `PORT` and `BAUD_RATE` variables in `serial_reader.py` to match your hardware
